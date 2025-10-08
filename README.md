@@ -1,4 +1,4 @@
-# Laura Ataide | Desenvolvedora Full Stack em Formação 👋
+# Laura Ataide | Desenvolvedora Full Stack em Formação 💻
 #### *Full Stack Developer in Training*
 
 Unindo a criatividade e a experiência do usuário do Front-End com a lógica e a estrutura do Back-End para criar soluções digitais completas.
