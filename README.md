@@ -42,6 +42,11 @@ Guided by a passion to create, develop, and structure, I aim to build end-to-end
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
+## Estou aprendendo
+<p align="left">
+<a> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> </a>
+<a> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> </a> 
+
 ---
 ### Estatísticas do GitHub
 #### *GitHub Stats*
