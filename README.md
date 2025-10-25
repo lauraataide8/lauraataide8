@@ -3,7 +3,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lauraataide91/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;
   <a href="https://lauraataide8.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfólio-97F024?style=for-the-badge&logo=gitea&logoColor=black" alt="Portfolio"></a>
+  &nbsp;
   <a href="mailto:lauramartinsataide@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
@@ -42,25 +44,22 @@ But my satisfaction wouldn't be complete without building the backbone that supp
 
 <div align="left">
   <strong>Front-End:</strong><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</div>
-<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <br><br>
   <strong>Back-End & Databases:</strong><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</div>
-<div align="left">
+  <br><br>
   <strong>Design & Ferramentas:</strong><br>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</div>
-<div align="left">
+  <br><br>
   <strong>Desenvolvendo Habilidades em Cloud:</strong><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
 </div>
 
@@ -69,8 +68,8 @@ But my satisfaction wouldn't be complete without building the backbone that supp
 ### 📊 Estatísticas do GitHub | GitHub Stats
 
 <div align="center">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lauraataide8&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraataide8&layout=compact&langs_count=6&theme=ayu-mirage"/>
-    <br><br>
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lauraataide8&bg_color=1F2430&color=FFFFFF&line=FF9900&point=FFFFFF&area=true&hide_border=true" alt="lauraataide8 activity graph"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lauraataide8&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauraataide8&layout=compact&langs_count=6&theme=ayu-mirage"/>
+  <br><br>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=lauraataide8&bg_color=1F2430&color=FFFFFF&line=FF9900&point=FFFFFF&area=true&hide_border=true" alt="lauraataide8 activity graph"/>
 </div>
