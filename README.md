@@ -1,5 +1,5 @@
 # LAURA ATAIDE
-### Desenvolvedora Full Stack em Formação | Full Stack Developer in Training
+### Desenvolvedora Full Stack | Full Stack Developer
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lauraataide91/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
