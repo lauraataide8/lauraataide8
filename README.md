@@ -15,11 +15,11 @@
 
 Minha jornada na tecnologia começou no **Suporte de Infraestrutura**, onde a curiosidade em resolver problemas me levou a querer *construir* as soluções. Essa experiência me deu uma base sólida em sistemas (Linux/Windows) e estabilidade, acendendo a paixão pelo desenvolvimento.
 
-No **Front-End**, transformo layouts do Figma em experiências interativas com **React**, HTML, CSS e JavaScript.
+No **Front-End**, transformo layouts , tambem com o Figma em experiências interativas com **React**, **Bootstrap**, HTML, CSS e JavaScript.
 
 No **Back-End**, construo a lógica, os bancos de dados e as **APIs** que formam um sistema robusto, com foco principal em **Java** e **Spring Boot**.
 
-Meu objetivo é dominar essa jornada de ponta a ponta. Por isso, estou expandindo minhas habilidades para **Cloud** (com fundamentos em **Azure AZ-900**) e **Automação de Processos (N8N)**, para criar soluções mais inteligentes e escaláveis.
+Meu objetivo é dominar essa jornada de ponta a ponta. Por isso, estou expandindo minhas habilidades para **Cloud** (com fundamentos em **Azure AZ-900**), para criar soluções mais inteligentes e escaláveis.
 
 ---
 
@@ -31,7 +31,7 @@ In the **Front-End**, I turn Figma layouts into interactive experiences using **
 
 In the **Back-End**, I build the logic, databases, and **APIs** that form a robust system, focusing primarily on **Java** and **Spring Boot**.
 
-My goal is to master this end-to-end journey. That's why I'm expanding my skills into **Cloud** (with **Azure AZ-900** fundamentals) and **Process Automation (N8N)**, to create smarter, more scalable solutions.
+My goal is to master this end-to-end journey. That's why I'm expanding my skills into **Cloud** (with **Azure AZ-900** fundamentals), to create smarter, more scalable solutions.
 
 ---
 
@@ -52,16 +52,16 @@ My goal is to master this end-to-end journey. That's why I'm expanding my skills
 
 <div align="left">
   <strong>Front-End:</strong><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>&nbsp;
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
   <br><br>
   <strong>Back-End & Automação:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>&nbsp;
-  <a href="https://n8n.io/" target="_blank"><img src="https://img.shields.io/badge/N8N-101010?style=for-the-badge&logo=n8n&logoColor=white" alt="N8N"></a>
-  <br><br>
+   <br><br>
   <strong>Banco de Dados:</strong><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <br><br>
